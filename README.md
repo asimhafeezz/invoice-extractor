@@ -7,7 +7,7 @@ It also stores extracted data in a vector database (FAISS) to enable future simi
 ## Demo
 
 Watch the demo video here:  
-[invoice_extractor_demo](https://github.com/user-attachments/assets/e0aeb6c8-4b24-40bf-8255-5857e5e05188)
+[Demo](https://drive.google.com/file/d/1TBhyG358vOtVe_X9QeB_lMBQ-aQAXfhH/view?usp=sharing)
 
 
 ## Features
